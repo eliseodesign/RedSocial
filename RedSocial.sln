@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSocial.BE", "RedSocial.BN\RedSocial.BE.csproj", "{96E5B894-B000-4BC0-86A9-817D2E974174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSocial.DAL", "RedSocial.DAL\RedSocial.DAL.csproj", "{684FD3A4-8C47-43BA-AE98-A5ACE9EF6C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSocial.BL", "RedSocial.BL\RedSocial.BL.csproj", "{C1B70849-024D-4B0D-A476-E5C233CEB960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedSocial.GUI", "RedSocial.GUI\RedSocial.GUI.csproj", "{D638B49C-E982-4BCD-AEF8-68407B52646F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E5B894-B000-4BC0-86A9-817D2E974174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E5B894-B000-4BC0-86A9-817D2E974174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E5B894-B000-4BC0-86A9-817D2E974174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E5B894-B000-4BC0-86A9-817D2E974174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684FD3A4-8C47-43BA-AE98-A5ACE9EF6C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684FD3A4-8C47-43BA-AE98-A5ACE9EF6C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684FD3A4-8C47-43BA-AE98-A5ACE9EF6C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684FD3A4-8C47-43BA-AE98-A5ACE9EF6C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B70849-024D-4B0D-A476-E5C233CEB960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B70849-024D-4B0D-A476-E5C233CEB960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B70849-024D-4B0D-A476-E5C233CEB960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B70849-024D-4B0D-A476-E5C233CEB960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D638B49C-E982-4BCD-AEF8-68407B52646F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D638B49C-E982-4BCD-AEF8-68407B52646F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D638B49C-E982-4BCD-AEF8-68407B52646F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D638B49C-E982-4BCD-AEF8-68407B52646F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFF2ADBD-FC1D-4A57-836B-50341B453C8C}
+	EndGlobalSection
+EndGlobal
